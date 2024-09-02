@@ -1,7 +1,7 @@
 # Echo Lounge
 
 ## Overview
-Echo Lounge is a cyberpunk-themed bartending simulation game inspired by Va11-Hall-a. It features procedurally generated characters, interactive conversations powered by AI, and a drink-making and serving interface. This project is split into two main repositories:  
+Echo Lounge is a cyberpunk-themed bartending simulation game inspired by Va11-Hall-a. It features fully procedurally generated characters using various AI APIs, interactive conversations powered by AI, and a drink-making and serving interface. This project is split into two main repositories:  
 
 - [Frontend Repository](https://github.com/stahsin00/echo-lounge-frontend)
 - [Backend Repository](https://github.com/stahsin00/echo-lounge-backend)
@@ -14,7 +14,7 @@ Echo Lounge is a cyberpunk-themed bartending simulation game inspired by Va11-Ha
 ## Tech Stack
 - Frontend: React, CSS
 - Backend: Node.js, Express, Redis, MongoDB
-- APIs: ChatGPT, Stable AI, Remove.bg
+- APIs: ChatGPT, Stability AI, Remove.bg
 - AWS S3 for asset storage
 
 ## Roadmap
